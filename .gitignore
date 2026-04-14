@@ -1,0 +1,15 @@
+# Ignorar arquivos compilados do Java
+*.class
+
+# Ignorar configurações de IDE
+.vscode/
+.idea/
+*.iml
+
+# Arquivos do sistema
+Thumbs.db
+.DS_Store
+
+# Arquivos temporários
+*.tmp
+~*
